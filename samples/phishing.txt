@@ -1,0 +1,24 @@
+From: PayPal Support <paypal-support@gmail.com>
+To: harshit@email.com
+Subject: URGENT: Your PayPal account has been suspended — Immediate action required
+
+Dear Valued Customer,
+
+We have detected unusual activity on your PayPal account. Your account will be closed within 24 hours unless you verify your information immediately.
+
+To restore access to your account and avoid permanent suspension, you must confirm your identity by clicking the link below:
+
+Verify your account now: http://paypa1-secure.verify-account.xyz/login?token=8f2a9c
+
+This is your final notice. Failure to act now will result in your account being permanently locked and any pending funds being held for up to 180 days.
+
+For security reasons, please do not ignore this email. Unusual activity has been flagged on your account and we need you to confirm your details urgently.
+
+If you did not initiate this request, your account may have been compromised. Click here immediately to secure your account.
+
+Thank you for your cooperation.
+
+PayPal Security Team
+PayPal Inc.
+
+© 2024 PayPal Inc. All rights reserved.

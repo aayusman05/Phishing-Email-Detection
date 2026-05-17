@@ -1,0 +1,24 @@
+From: Sarah Mitchell <s.mitchell@acmecorp.com>
+To: harshit@acmecorp.com
+Subject: Team sync — Thursday 3 pm
+
+Hi Harshit,
+
+Just a heads-up that our weekly team sync has been moved to Thursday at 3 pm this week because of a conflict on Wednesday afternoon.
+
+The agenda will be the same as usual:
+  1. Sprint progress updates
+  2. Blockers and help needed
+  3. Any other business
+
+The meeting room has been booked (Room 4B on the second floor). If you are joining remotely, I will share the dial-in details in the calendar invite.
+
+Let me know if you have anything specific you would like to add to the agenda.
+
+See you Thursday,
+Sarah
+
+--
+Sarah Mitchell
+Senior Project Manager, Acme Corp
+sarah.mitchell@acmecorp.com | +44 20 7946 0102
